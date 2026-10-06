@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">桌面守护</string>
+    <string name="accessibility_desc">开机后自动切换到当贝桌面。检测前台应用，如果不是当贝桌面，自动按HOME键切换。</string>
+</resources>
